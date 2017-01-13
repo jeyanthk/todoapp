@@ -1,2 +1,2 @@
 # todoapp
-A Todo app bilt with Angularjs
+A Todo app built with Angularjs
